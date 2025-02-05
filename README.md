@@ -6,7 +6,6 @@ Develop projects for HNG 12 Internship
   HNG Hire Links included:
   Flutter Developers: "http://hng.tech/hire/flutter-developers",
   React-Native Developers: "http://hng.tech/hire/react-native-developers",
-  Moblie Developers: "http://hng.tech/hire/mobile-ui-ux-developers",
   Android Developers: "http://hng.tech/hire/android-developers",
   iOS Developers: "http://hng.tech/hire/ios-developers",
 
